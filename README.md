@@ -1,6 +1,6 @@
 # Multimedial
 
-## Taller Multimedia
+<h2 style="color: pink;">Taller Multimedia</h2>
 
 Ejercicio 1,semana 1:
 
@@ -75,3 +75,16 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 ```
+
+<h2 style="color: pink;">Unidad 2</h2>
+
+1. Chroma 
+(https://drive.google.com/drive/folders/1e34pHxCat-S4MoswmgBc2NVqL5xLVb7-?usp=drive_link)
+2. comfy
+(https://drive.google.com/drive/folders/1D_vGCYY3oZcm2EmHAGuZBf-t21Su40ca?usp=drive_link)
+3. Lsystem
+(https://drive.google.com/drive/folders/1hiXEnyceTAoUGwMRY6rGYl_LbVZshDiD?usp=drive_link)
+4. Point
+(https://drive.google.com/drive/folders/1mkIxrSvEnpcig926Nl08FHX2OpbZe7ty?usp=drive_link)
+5. Proyecto personal
+(https://drive.google.com/drive/folders/1pxHwFiklkDJDoBmsWlR-YDcjWyTgkLDF?usp=drive_link)
