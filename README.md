@@ -22,7 +22,7 @@
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
 <title>Multimedial</title>
-<!-- Título de la página que aparece en la pestaña del navegador -->
+<!-- Título de la página que aparece in la pestaña del navegador -->
 
 <style>
 /* Aquí comienza la sección de estilos CSS que define la apariencia visual */
@@ -94,11 +94,8 @@ La seleccion de coloresa para el fondo y las letras fue en base a los colores pr
 
 ![Captura de pantalla de la unidad 2](https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/Captura%20de%20pantalla%202026-11-17%20113250.png)
 
+![GIF del proyecto](https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/clideo_editor_454638f91b5a422a95efd9b8bf0b1015.gif)
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/Grabación%20inicio.mp4" type="video/mp4">
-  Tu navegador no soporta videos HTML5.
-</video>
 
 El primer boton: "Obras" redirije a la primera pagina enlazada, que  nos muestra las colecciones de obras que tenia hasta el momento
 
@@ -106,10 +103,7 @@ El primer boton: "Obras" redirije a la primera pagina enlazada, que  nos muestra
 
 Al presionar cada seccion (una nueva pagina enlazada) se puede visualizar las obras que forman parte de cada conjunto, si presionas la imagen del jumbito con la estatuilla es posible verla en gran tamaño (pantalla completa) para poder apreciar la textura de la acuarela. Ademas bajo cada titulo hay una serie de botones con acciones determinadas.
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/Grabaci%C3%B3n%20obras.mp4" type="video/mp4">
-  Tu navegador no soporta videos HTML5.
-</video>
+![GIF del proyecto](https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/clideo_editor_c27959778a6f4a63898d1ff26e05efca.gif)
 
 
 El boton de "inicio" te lleva a la primera pagina que vimos. El boton "regresar" hace que vuelvas a la pagina anterior, solo la serie "dajes de la infancia" cuenta con uno adicional llamado "Informacion" que la idea es que cada seccion pueda tener la suyacon informacion particular y el proceso de cada serie. El ultimo boton "contacto" nos redirige a la infromacion para contactarme.
@@ -121,10 +115,8 @@ Esta seccion varia entre informacion ficticia (como lo seria el rut) e informaci
 
 El diseño esta basado en mi propio carnet y estructurado de una manera en que lo simule lo mas posible, incluso la imagen es mi foto de carnet. 
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/Grabación%20contacto.mp4" type="video/mp4">
-  Tu navegador no soporta videos HTML5.
-</video>
+![GIF del proyecto](https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/contacto.gif)
+
 
 <h2 style="color: pink;">Unidad 2</h2>
 
@@ -136,7 +128,20 @@ El diseño esta basado en mi propio carnet y estructurado de una manera en que l
 (https://drive.google.com/drive/folders/1hiXEnyceTAoUGwMRY6rGYl_LbVZshDiD?usp=drive_link)
 4. Point : 
 (https://drive.google.com/drive/folders/1mkIxrSvEnpcig926Nl08FHX2OpbZe7ty?usp=drive_link)
-5. Proyecto personal :
-(https://drive.google.com/drive/folders/1pxHwFiklkDJDoBmsWlR-YDcjWyTgkLDF?usp=drive_link)
 
+<h2 style="color: pink;">Proyecto personal</h2>
+
+
+Resultados : (https://drive.google.com/drive/folders/1pxHwFiklkDJDoBmsWlR-YDcjWyTgkLDF?usp=drive_link)
+
+Dentro del link se pueden observar 4 elementos : 
+
+1. Desarrollo : esta incluye todo el proceso del proyecto (versiones anteriores, pruebas con otros sistemas, con otras imagenes, etc) 
+2. Video : Esta incluye la grabacion de pantalla del proyecto final, que corresponde al mismo gif que se ve al inicio del README.
+3. Propuesta : un documneto que habla del resumen de la obra, su concepto, montaje y materiales necesarios para este. 
+4. Proyecto Final : el archivo final.
+
+![Touch](https://raw.githubusercontent.com/SofiaGon2019/Multimedial/main/img/touch.png)
+
+Esta es la conformacion del proyecto, la imagen de los osos colgando fue generada por Comfy a partir de mis trabajos en el ramo de pintura, donde yo trabajo con bodegones de peluche. La imagen tiene la caracteristica de que se mece en su eje, y que es interactiva respecto al ruido del lugar: mientras mas ruido, mas se distorsiona y es dificil de ver, pero si no hay ruido esta se queda junta y se puede ver como se mece. 
 </div>
